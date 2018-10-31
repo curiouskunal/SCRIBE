@@ -10,6 +10,6 @@ This application is constructed using a Node back end, a React front end web app
 
 [Live Demo](https://scribe-comedic-wallaby.us-east.mybluemix.net/)
 
-[Video Link](https://youtu.be/UTXNLBSqf38)
+[Video Link](https://youtu.be/-mdYQIzF6Eo)
 
 ![Screenshot](SCRIBE.png)
