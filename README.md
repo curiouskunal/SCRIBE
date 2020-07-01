@@ -1,4 +1,4 @@
-###### IBM Intern Hackathon 2018
+###### IBM Intern Hackathon 2018 - Real time multi speaker speech to text
 # SCRIBE
 
 Scribe is a meeting tool that records live audio, converts speech to text, and displays dialogue in real time. The transcript and key topics of the meeting can then be sent to a slack channel for future reference.
